@@ -1,4 +1,4 @@
-{
+var boundary={
   "type": "FeatureCollection",
   "features": [
     {
